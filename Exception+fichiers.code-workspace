@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "programmation\\2eme\\exercices cours\\exercice 1 TD 6"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"*.tcc": "cpp",
+			"string": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
